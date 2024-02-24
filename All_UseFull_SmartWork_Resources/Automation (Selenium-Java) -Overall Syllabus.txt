@@ -1,0 +1,40 @@
+**) UDM, inheritance, Access Modifiers, KeyWords - This, Static, (Datatypes & Variables -To Store Values), waitTime,
+**) Constructors & Method - Overloading & Overriding - Parameterization - Dynamic Values 
+**) Getting Dynamic Values EveryTime (Writing Program in the Way)
+**) Debugging Concept 
+**) Exception Handling - 5 Scenarios
+**) ToolsUsing must Use While Doing Practice (Implementing)
+    1.ShortCuts in Eclipse, 2.ProgressTracking, 3.OverAll Automation Topics Syllabus, 4.Selenium-Java (CodeSnippet)
+
+**) Write Code Based on the Behaviour of Application
+  
+ BaseTestClass 
+
+  Operations Classes
+*. Browser Commands, (Verification Commands), Locators - 8, JavaClass-------> Pre-DefinedMethods & Interfaces, 
+   Finding WebElements & Performing Actions On WebElements,  
+*. Operations - Click, Enter Keys
+0. Objects ---> TextBox, Buttons,RadioButtons, Link,CheckBoxes, DropDown, ListBox, WebTable. ---
+    (Verification Commands) isSelected, isDisplayed, isEnabled (Boolean Values)
+1. DropDowns & Multiple Select Option From List, Suggestion List 
+2. Validating Text, Titles, Url, Attribute(DynamicValues)
+3. Operators(=,!=,>,<),if -Else, while, For , NestedFor, jumping Statements
+4. Fetching WebTable Data - Rows & Columns
+5. i-frames - (Switch) WebElements Validation
+6. Actions - KeyBord & MouseOverActions - Drag & Drop Operations
+4. Validating Links - Taking Failed ScreenShots 
+5. AutoIT - Uploading a PhotoGraph (Handling Window Objects)
+6. Handling - (Switching) Alerts, Window Objects & Tabs
+7. Excel & Properties Files -Reading Data & Writing Data in Excel Sheets, Properties Files
+8. Log4j - reports, Extent - Reports
+9. TestNG - Annotations, GroupingTCS- Running Suit File, Create Dependents, Attributes - Prioritizing,
+   .xml File (Serial & Parallel Executions), TestNG Reports Generation-HTML, 
+10. Xpaths - Concepts 
+11. Using ----> javaScriptExecotor, Array List in javaClass
+12. Working with GIT, JENKINS, GRID
+
+**) PageClasses - Maven Project & Folders & 
+    Reusable Methods - Utility - Excel File, Config File, ExtentReports-Integration, Logger File Implementaion
+
+ ExecutionClass (TestClass)
+
